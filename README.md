@@ -13,6 +13,6 @@
 
 ~~~ ruby
 def my_first_blog
-	puts "Hello"
-	end
+  puts "Hello"
+end
 ~~~
